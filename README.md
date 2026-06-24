@@ -1,7 +1,7 @@
 
   # DARKFALL WINGS
 
-  This is a code bundle for DARKFALL WINGS. The original project is available at https://www.figma.com/design/abZLHOvFPVFsZFK34h324K/DARKFALL-WINGS.
+  This is a code bundle for DARKFALL WINGS. 
 
   ## Running the code
 
