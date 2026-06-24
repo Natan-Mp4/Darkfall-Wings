@@ -1,7 +1,20 @@
 
-  # DARKFALL WINGS
+# DARKFALL WINGS
 
-  This is a code bundle for DARKFALL WINGS. 
+ Concept website for a fictional Adidas Originals × Jeremy Scott × Rick Owens collaboration.
+
+## Features
+
+- Responsive design
+- Product storytelling
+- Editorial presentation
+- Interactive product gallery
+
+## Technologies
+
+- React
+- Vite
+- Tailwind CSS
 
   ## Running the code
 
